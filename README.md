@@ -1,1 +1,1 @@
-# My first github project
+# Week 1 project
